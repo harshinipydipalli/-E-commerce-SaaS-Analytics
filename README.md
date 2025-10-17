@@ -90,17 +90,17 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 - **User Growth:** New sign-ups over time  
 - **Churn Rate:** Percentage of users not returning  
 - **Average Age / Geography Distribution:** Understand audience demographics  
+![User Metrics Dashboard](dashboards/usermetric.png)
 
-### **Product Metrics**
-- **Top-Selling Products & Categories**  
-- **Average Unit Price & Revenue per Product**  
-- **Stock Turnover (if stock available)**  
 
 ### **Order & Revenue Metrics**
+- **Top-Selling Products & Categories**  
+- **Average Unit Price & Revenue per Product**  
 - **Total Orders / Revenue Over Time**  
 - **Average Order Value (AOV)** = Total Revenue ÷ Number of Orders  
 - **Repeat Purchase Rate** = Users with multiple orders ÷ Total Users  
-- **Order Conversion Rate** = Orders ÷ Total Sessions  
+- **Order Conversion Rate** = Orders ÷ Total Sessions
+![Revenue Metrics Dashboard](dashboards/revenuemetric.png)
 
 ### **Subscription & SaaS Metrics**
 - **Subscription Count by Plan**  
