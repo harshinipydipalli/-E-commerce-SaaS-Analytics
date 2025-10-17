@@ -103,11 +103,11 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 ![Revenue Metrics Dashboard](dashboards/revenuemetric.png)
 
 ### **Subscription & SaaS Metrics**
-- **Subscription Count by Plan**  
-- **Monthly Recurring Revenue (MRR)**
-- **Churn Rate by Plan**
-- **Average revenue per subscription = subscription revenue /  total unique subscriptions
-- **Average revenue per customer = 
+- **Subscription Count by Plan**  = count of subscriptions / plan
+- **Monthly Recurring Revenue (MRR)** = SUM(price of active subscriptions)
+- **Churn Rate by Plan** = 
+- **Average revenue per subscription = total subscription revenue /  total unique subscriptions
+- **Average revenue per customer = total subscription reveue  / total unique users
 - **Lifetime Value (LTV) per Customer**  
 
 ### **Engagement & Event Metrics**
