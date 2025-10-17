@@ -1,7 +1,7 @@
 
 # E-commerce & SaaS Analytics
 
-This project demonstrates a complete **E-commerce & SaaS Analytics pipeline** using multiple related tables. The goal is to transform raw transactional, user, and product data into actionable business insights.
+This project demonstrates a complete **E-commerce & SaaS Analytics pipeline** using multiple related tables with large datasets. The goal is to transform raw transactional, user, and product data into actionable business insights.
 These metrics allow companies to **understand user behavior, product performance, and revenue trends** for making data-driven decisions.
 
 ## **Dataset Overview**
