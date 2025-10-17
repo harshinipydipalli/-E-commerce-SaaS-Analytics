@@ -97,15 +97,17 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 - **Top-Selling Products & Categories**  
 - **Average Unit Price & Revenue per Product**  
 - **Total Orders / Revenue Over Time**  
-- **Average Order Value (AOV)** = Total Revenue ÷ Number of Orders  
-- **Repeat Purchase Rate** = Users with multiple orders ÷ Total Users  
+- **Average Order Value (AOV)** = Total Revenue / total of distinct Orders  
+- **Repeat Purchase Rate** = Users with multiple orders / Total Users  
 - **Order Conversion Rate** = Orders ÷ Total Sessions
 ![Revenue Metrics Dashboard](dashboards/revenuemetric.png)
 
 ### **Subscription & SaaS Metrics**
 - **Subscription Count by Plan**  
-- **Monthly Recurring Revenue (MRR)**  
-- **Churn Rate by Plan**  
+- **Monthly Recurring Revenue (MRR)**
+- **Churn Rate by Plan**
+- **Average revenue per subscription = subscription revenue /  total unique subscriptions
+- **Average revenue per customer = 
 - **Lifetime Value (LTV) per Customer**  
 
 ### **Engagement & Event Metrics**
