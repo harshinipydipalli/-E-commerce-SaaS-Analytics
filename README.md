@@ -4,6 +4,8 @@
 This project demonstrates a complete **E-commerce & SaaS Analytics pipeline** using multiple related tables. The goal is to transform raw transactional, user, and product data into actionable business insights.
 ---
 
+This project allows companies to **understand user behavior, product performance, and revenue trends** for making data-driven decisions.
+
 ## **Dataset Overview**
 
 The project uses the following tables:
@@ -127,6 +129,6 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 
 ---
 
-This project allows companies to **understand user behavior, product performance, and revenue trends** for making data-driven decisions.
+
 
 
