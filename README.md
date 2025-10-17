@@ -100,7 +100,8 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 - **Total Orders / Revenue Over Time**  
 - **Average Order Value (AOV)** = Total Revenue / total of distinct Orders  
 - **Repeat Purchase Rate** = Users with multiple orders / Total Users  
-- **Order Conversion Rate** = Orders ÷ Total Sessions  
+- **Order Conversion Rate** = Orders ÷ Total Sessions
+  
 ![Revenue Metrics Dashboard](dashboards/revenuemetrics.png)
 
 ### **Subscription & SaaS Metrics**
@@ -109,7 +110,8 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 - **Churn Rate by Plan** = total churn / plan
 - **Average revenue per subscription = total subscription revenue /  total unique subscriptions
 - **Average revenue per customer = total subscription reveue  / total unique users
-- **Lifetime Value (LTV) per Customer**  = Average Revenue per Customer × Customer Lifetime (in months or years)  
+- **Lifetime Value (LTV) per Customer**  = Average Revenue per Customer × Customer Lifetime (in months or years)
+  
 ![Revenue Metrics Dashboard](dashboards/subscriptionmetrics.png)
 ---
 
