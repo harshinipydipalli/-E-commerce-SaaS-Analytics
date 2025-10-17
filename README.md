@@ -52,8 +52,8 @@ The project uses the following tables:
 | subscription_id | Unique identifier for subscription |
 | user_id        | Associated user                     |
 | plan_id        | Subscription plan ID                |
-start_date       Start date of subscription
-  end date          End date of subscription
+| start_date      | Start date of subscription          |
+| end date       | End date of subscription            |
 
 ### **6. Product Categories**
 | Column Name       | Description                          |
@@ -74,7 +74,7 @@ start_date       Start date of subscription
 | geo_location      | Geographic location of user           |
 
 ### **8. Item Types**
-| item_type      | Description                          |
+| column_name    | Description                          |
 |------------------|--------------------------------------|
 | item_type_id       | Unique item type identifier          |
 | item_type_name     | Name of the item type                |
@@ -129,10 +129,8 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 
 ---
 
-## **Tech Stack**
-- SQL (PostgreSQL / MySQL) for data modeling & querying  
-- Power BI / Tableau for visualization  
-- Python (Pandas, NumPy) for data analysis  
+## **Tech Stack** 
+- Power BI , Excel
 
 ---
 
