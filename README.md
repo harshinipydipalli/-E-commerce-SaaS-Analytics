@@ -105,22 +105,10 @@ These metrics are useful for E-commerce, Retail, and SaaS companies:
 ### **Subscription & SaaS Metrics**
 - **Subscription Count by Plan**  = count of subscriptions / plan
 - **Monthly Recurring Revenue (MRR)** = SUM(price of active subscriptions)
-- **Churn Rate by Plan** = 
+- **Churn Rate by Plan** = total churn / plan
 - **Average revenue per subscription = total subscription revenue /  total unique subscriptions
 - **Average revenue per customer = total subscription reveue  / total unique users
-- **Lifetime Value (LTV) per Customer**  
-
-### **Engagement & Event Metrics**
-- **Feature Usage Frequency**  
-- **Session Count per User**  
-- **Event Funnels:** e.g., Product Viewed → Added to Cart → Purchased  
-- **Device & Geo Insights**  
-
-### **Other Strategic KPIs**
-- **Customer Retention Rate**  
-- **Revenue per User (ARPU)**  
-- **Category Performance**  
-- **Item Type Popularity**  
+- **Lifetime Value (LTV) per Customer**  = Average Revenue per Customer × Customer Lifetime (in months or years)
 
 ---
 
